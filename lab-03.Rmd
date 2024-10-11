@@ -45,7 +45,7 @@ No colur, difficult to interpret.
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+Overlapped data and unclear abbreviations 
 
 
 
